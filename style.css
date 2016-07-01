@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body {
+	background-color: #777
+	width:960px;
+	font-size: 18px;
+	font-family: arial, Helvetica Neue, Helvetica, sans-serif;
+}
+header {
+	background-color: #ebebeb
+	width: 960px;
+}
+section {
+	background-color: #ebebeb
+}
+#nav {
+	background-color: #ebebeb
+	padding: 20px;
+	margin-bottom: 20px;
+	width: 960px;
+
+}
